@@ -1,0 +1,41 @@
+
+        HTTP/1.1 VS HTTP/2.0
+        --------------------
+            
+            HTTP/1.1
+1.sent request are separate connection 
+  so slow loading page
+
+2.headers not compressed
+
+3.text based protocol
+
+
+           HTTP/2.0
+
+1. sent multiple request for fast loading page
+
+2. efficient to compressed header information
+
+3. binary protocol communication
+
+
+      JAVASCRIPT OBJECT
+    ....................
+
+object is data structure 
+
+to store and organize the data
+
+example
+
+let person = {
+
+    firstName : 'ram',
+    secondName : 'kumar'
+    age: 30
+    }
+
+
+
+objects form of key and value
